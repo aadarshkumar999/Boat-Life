@@ -72,8 +72,7 @@ const Header = () => {
   return (
     <header className="sticky top-0 z-50 bg-white border-b">
       <div className="max-w-screen-xl mx-auto flex items-center justify-between px-4 py-3 lg:px-10">
-        {/* Logo */}
-        <a href="https://www.boat-lifestyle.com/" className="shrink-0">
+        <a href="/" className="shrink-0">
           <img
             className="h-8 w-auto lg:h-10"
             src="https://www.boat-lifestyle.com/cdn/shop/files/boAt_logo_black_24889e30-925c-4185-a028-9fef497a8e44.svg?v=1732879339"
